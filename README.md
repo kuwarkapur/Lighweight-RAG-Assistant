@@ -4,7 +4,7 @@ This project was built as part of a take-home assignment to explore retrieval-au
 
 The goal was not to build a production-ready system, but to demonstrate document retrieval, grounded question answering, structured-data handling, guardrails, and evaluation within a limited development window.
 
-**Demo video:** '../output/demo_rag_assistant.webm'
+**Demo video:** See '../output/demo_rag_assistant.webm'
 
 ---
 
