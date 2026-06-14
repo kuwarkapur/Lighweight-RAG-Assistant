@@ -27,7 +27,7 @@ The goal was not to build a production-ready system, but to demonstrate document
 
 - Python 3.10+
 - [Hugging Face account](https://huggingface.co/join) with an API token ([settings/tokens](https://huggingface.co/settings/tokens))
-- Accept model licenses on HF for `HuggingFaceH4/zephyr-7b-beta` and `meta-llama/Llama-3.2-3B-Instruct` if prompted
+- Accept model licenses on HF for `HuggingFaceH4/zephyr-7b-beta` and `meta-llama/Llama-3.1-8B-Instruct` if prompted
 
 ### Install
 
