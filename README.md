@@ -32,7 +32,7 @@ The goal was not to build a production-ready system, but to demonstrate document
 ### Install
 
 ```bash
-cd icloudfiles
+cd root
 python3 -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
