@@ -1,0 +1,29 @@
+From: sarah.chen@company.com
+To: ops-leadership@company.com
+Cc: regional-managers@company.com
+Subject: Q4 Operations Review — Key Issues and Action Items
+Date: December 15, 2025
+
+Team,
+
+Sharing highlights from our Q4 operations review. Please cascade to your teams as needed.
+
+DELAYED SHIPMENTS
+We saw a 12% increase in Level 2 escalations in November, primarily driven by carrier capacity issues in the Midwest region. The updated shipping escalation SOP (OPS-SOP-014 v2.1) is now in effect — please ensure all coordinators are trained by Jan 15.
+
+INVENTORY AGING
+Three branches (Chicago, Dallas, Phoenix) exceeded the 60-day average aging threshold. Dallas in particular has 8 SKUs in critical status (91+ days). Supply chain review scheduled for Dec 20.
+
+PROCUREMENT BACKLOG
+Finance reported a 4-day average delay on PR approvals over $5,000 due to year-end budget freezes. Emergency procurement retroactive approvals must be completed by Dec 31 per FIN-POL-008.
+
+ACTION ITEMS
+1. Regional managers: submit branch aging disposition plans by Dec 22
+2. All teams: complete Q4 SER closure for open escalations by Dec 18
+3. Procurement: prioritize PRs with required delivery before Dec 31
+
+Let me know if you have questions before the leadership call on Thursday.
+
+Best,
+Sarah Chen
+Director, Operations
