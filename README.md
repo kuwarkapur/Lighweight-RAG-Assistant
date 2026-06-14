@@ -251,7 +251,7 @@ I also ran into a few generation issues with smaller HF models, including prompt
 ## Project structure
 
 ```
-icloudfiles/
+(root)/
 ├── app.py                  # Streamlit UI
 ├── requirements.txt
 ├── .env.example
